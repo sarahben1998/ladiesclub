@@ -1,0 +1,135 @@
+.text1 { color: black ;}
+
+            #sara {
+                color: palevioletred ;
+
+            }
+            .login {
+                background-color: plum;
+                color: black ;
+                width: 100px;
+                height: 30px;
+                border: 1px solid black;
+
+            }
+            .login:hover {
+               
+                background-color: white;
+                color: black ; 
+               
+            }
+
+            .input {
+                background-color: plum;
+                color: white;
+                width: 150px;
+                height: 30px;
+                border: 1px solid black;
+
+
+            }
+
+            .input:focus{
+                background-color: white;
+                color: plum;
+            }
+
+.div1{
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+}
+
+             .Passeword {
+                background-color: plum;
+                color: black ;
+                width: 100px;
+                height: 30px;
+                border: 1px solid black;
+                
+
+            }
+
+            .Passeword:hover {
+               
+                background-color: white;
+                color: black ; 
+               
+               
+            }
+
+            .input {
+                background-color: plum;
+                color: white;
+                width: 150px;
+                height: 30px;
+                border: 1px solid black;
+
+            }
+            .input:focus{
+                background-color: white;
+                color: plum;
+
+            }
+
+           
+            
+            .planning {
+                background-color: plum;
+                color: white ;
+                width: 100px;
+                height: 30px;
+                border: 1px solid black;
+                
+            }
+            .planning:hover {
+               
+                background-color: white;
+                color: plum; 
+                
+               
+            }
+
+            .p-padding
+            {
+                width: 250px; 
+                padding-left: 450px;
+                margin-left: 450px;
+                
+            }
+
+            .images
+            {
+                width: 250px; 
+                padding-left: 30px;
+                margin-left: 30px;
+                
+            }
+
+            .image2 {
+                width: 250px; 
+                padding-left: 400px;
+                margin-left: 400px;
+
+
+            }
+            .social-share {
+                display: flex;
+                align-items:center;
+                gap: 5px;
+            }
+
+            .social-icon {
+                display: block;
+                width: 30px;
+                height: 30px;
+
+            }
+
+            .social-icon img{
+                object-fit: contain;
+                width: 100%;
+                height: 100%;
+                padding-left: 450px;
+                margin-left: 450px;
+            }
